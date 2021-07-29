@@ -1,13 +1,15 @@
-##### Hello my name is Aleson. Software Engineer i'm acting 6 years in the market system development :computer:. In love it javascript and php and having found a new passion in Golang :smile:
+## Hello my name is Aleson. Software Engineer i'm acting 6 years in the market system development :computer:. In love it javascript and php and having found a new passion in Golang :smile:
 
 
 
+
+#### let's connect ? :wave:
 
 **Email:** proton.2016.ti@gmail.com
 **LinkedIn:** https://www.linkedin.com/in/aleson-fran%C3%A7a/
 
 
-###let's connect ? :wave:
+
 <!--
 **aleesilva/aleesilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
