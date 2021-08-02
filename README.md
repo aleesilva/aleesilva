@@ -6,13 +6,18 @@
 #### let's connect ? :wave:
 
 
+<div id="contacts"> <br>
+<a href="mailto:proton.2016.ti@gmail.com" target="_blank">
+<img height="35" width="35" align="center" alt="gmail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png">   
+</a>
 
-**Email:** proton.2016.ti@gmail.com
+<a href="https://www.linkedin.com/in/aleson-fran%C3%A7a/" target="_blank"> 
+  <img height="40" width="40" align="center" alt="LinkedIn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"> </a>
+</div>  
 
-**LinkedIn:** https://www.linkedin.com/in/aleson-fran%C3%A7a/
+##
 
-<div><br>
-  
+<div><br>  
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width:100%;">
   <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="max-width:100%;">
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="max-width:100%;">
