@@ -1,6 +1,12 @@
 ## Hello my name is Aleson. Software Engineer i'm acting 6 years in the market system development :computer:. In love it javascript and php and having found a new passion in Golang :smile:
 
 
+<div>
+  <a href="https://github.com/rafaballerini">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=aleesilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleesilva&layout=compact&langs_count=10&theme=dracula"
+  <a/>
+</div>
 
 
 #### let's connect ? :wave:
