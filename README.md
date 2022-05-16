@@ -1,11 +1,11 @@
-## Hello my name is Aleson. Software Engineer i'm acting 6 years in the market system development :computer:. In love it javascript and php and having found a new passion in Golang :smile: 
+## Hello my name is Aleson. Software Engineer i'm acting 6 years in the market system development :computer:. In love it javascript and php and having found a new passion in Elixir <img align="center" alt="Elixir" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" style="max-width:100%;">  :smile: 
  
 
 
 <div>
   <a href="https://github.com/aleesilva">
-    <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=aleesilva&show_icons=true&include_all_commits=true&count_private=true&theme=gotham">
-    <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleesilva&layout=compact&langs_count=10&theme=gotham">
+    <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=aleesilva&show_icons=true&include_all_commits=true&count_private=true&theme=outrun">
+    <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleesilva&layout=compact&langs_count=10&theme=outrun">
   <a/>
 </div>
 <br>
@@ -26,5 +26,5 @@
   <img align="center" alt="graphql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" style="max-width:100%;">
   <img align="center" alt="vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" style="max-width:100%;">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width:100%;">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" style="max-width:100%;">
+  <img align="center" alt="Elixir" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" style="max-width:100%;">
 </div>
